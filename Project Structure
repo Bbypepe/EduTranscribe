@@ -1,0 +1,16 @@
+EduTranscribe/
+├── main.py
+├── ui/
+│   ├── main_window.ui
+│   └── styles.qss
+├── core/
+│   ├── audio_processor.py
+│   ├── translator.py
+│   └── video_processor.py
+├── assets/
+│   ├── logo.png
+│   └── icons/
+├── requirements.txt
+├── LICENSE
+├── README.md
+└── .gitignore
